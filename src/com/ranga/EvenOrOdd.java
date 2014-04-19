@@ -1,3 +1,9 @@
+
+/**
+ * Write a Java program to find the the given number is Even or Odd with out using conditionals( like if, switch etc).
+ */
+
+
 package com.ranga;
 
 import java.util.Scanner;
